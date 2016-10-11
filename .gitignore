@@ -46,3 +46,4 @@ spec/data/test-dir
 
 # acceptance binstubs
 acceptance/bin/*
+.chef
